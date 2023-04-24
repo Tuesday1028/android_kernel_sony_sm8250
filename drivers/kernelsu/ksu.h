@@ -3,7 +3,7 @@
 
 #include "linux/workqueue.h"
 
-#define KERNEL_SU_VERSION (10796) // major * 10000 + git version + 200 for historical reasons
+#define KERNEL_SU_VERSION 10818
 
 #define KERNEL_SU_OPTION 0xDEADBEEF
 
